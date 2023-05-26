@@ -16,7 +16,7 @@
   </a>&nbsp;&nbsp;
 </table>
 
-### My Tech-Stack:
+### My Team Tech-Stack:
 * Languages and Frameworks
 
   ![image](https://img.shields.io/badge/C%2B%2B-232671E5?style=for-the-badge&logo=c%2B%2B&logoColor=white)
