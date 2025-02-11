@@ -1,4 +1,3 @@
----
 
 ### 🏙️ Grand Town Roleplay (GTRP) – FiveM RP Server
 **Welcome to Grand Town Roleplay (GTRP)!**  
