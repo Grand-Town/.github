@@ -1,69 +1,80 @@
-### Hi there,  I'm Usman - aka Ghosty 👋
+Here's a professional and comprehensive `README.md` for your **FiveM Roleplay GitHub Organization: Grand Town Roleplay (GTRP)**. It includes an introduction, installation steps, contribution guidelines, and links to resources.
 
+---
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/MrGhost?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FAdnaniDev&screen_name=Ghosty03492339)
+### 🏙️ Grand Town Roleplay (GTRP) – FiveM RP Server
+**Welcome to Grand Town Roleplay (GTRP)!**  
+This repository is the core of our **FiveM** roleplay server, designed to provide an immersive and dynamic roleplaying experience. Join us in shaping an active and engaging RP community!
 
-## 📫 Find me at:
-<table>
-  <tr>
-    <a href="https://www.linkedin.com/in/muhammad-usman-b52344233/">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>&nbsp;&nbsp;
-   <a href="mailto:ghosty7861@gmail.com">
-     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-    <a href="mzrp.net">&nbsp;&nbsp;
-    <img src="https://img.shields.io/badge/-CodeChef-FFA116?style=for-the-badge&logo=CodeChef&logoColor=black" />        
-  </a>&nbsp;&nbsp;
-</table>
+---
 
-### My Team Tech-Stack:
-* Languages and Frameworks
+## 🚀 About GTRP
+Grand Town Roleplay (GTRP) is a **custom-built FiveM server** that offers a wide range of roleplaying scenarios, jobs, and features. Our goal is to create a realistic, engaging, and player-driven world.
 
-  ![image](https://img.shields.io/badge/C%2B%2B-232671E5?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-  ![image](https://img.shields.io/badge/Kotlin-%23FF9900?style=for-the-badge&logo=Kotlin&logoColor=white)
-  ![image](https://img.shields.io/badge/Dart-00599C?style=for-the-badge&logo=dart&logoColor=white)
-  ![image](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-  ![image](https://img.shields.io/badge/Flutter-4285F4?style=for-the-badge&logo=Flutter&logoColor=white)
+### 🎮 Features:
+✅ **Custom Framework** – Optimized for performance and stability  
+✅ **Whitelisted Jobs** – Police, EMS, Mechanics, and more  
+✅ **Illegal Activities** – Gangs, drug trafficking, heists, etc.  
+✅ **Realistic Economy** – Player-driven market & dynamic economy  
+✅ **Housing System** – Own, rent, and furnish your properties  
+✅ **Vehicle Customization** – Tuning, custom liveries, and dealerships  
+✅ **Advanced Inventory & Banking** – Secure and realistic interactions  
+✅ **Interactive UI & Menus** – Intuitive and user-friendly design  
+✅ **Active Staff & Community** – Dedicated team ensuring fair RP  
 
-* Cloud and Hosting services
+---
 
-  ![image](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-  <img alt="AWS" src="https://img.shields.io/badge/AWS%20-%23FF9900.svg?&style=for-the-badge&logo=amazon-aws&logoColor=white"/>
+## 🔧 Installation Guide
+To run **Grand Town Roleplay** on your local machine or server, follow these steps:
 
-* Backend Frameworks
+### ✅ Requirements:
+- **FiveM Server Artifacts**: [Download Here](https://runtime.fivem.net/artifacts/fivem/)
+- **MariaDB / MySQL** for database management
+- **TXAdmin** (Recommended for easy management)
+- **Essential FiveM Mods** (ESX, QBCore, or Custom Framework)
 
-  ![image](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-  ![image](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
-  ![image](https://img.shields.io/badge/Typescript-%2307405e?style=for-the-badge&logo=typescript&logoColor=white)
-  ![image](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+### 📌 Setup:
+1. **Clone the repository:**
+   ```sh
+   NOT A PUBLIC COPY
+   ```
+2. **Install dependencies:**
+   - Make sure to install `mysql-async` and required dependencies in `server.cfg`
+   - Import `gtrp_database.sql` into your database
+3. **Configure the server:**
+   - Edit `server.cfg` with your **database credentials** and **server settings**
+   - Set your **Steam API Key** and **License Key** in `server.cfg`
+4. **Start the server:**
+   ```sh
+   bash run.sh
+   ```
+   OR use TXAdmin for easier management.
 
+---
 
-* Database
+## 🤝 Contributing
+We welcome contributions to improve **Grand Town Roleplay**! To contribute:
+1. **Fork this repository**
+2. **Create a new branch** for your changes
+3. **Submit a Pull Request** with detailed descriptions
+4. **Follow our Coding Standards** (check `CONTRIBUTING.md`)
 
-  <img alt="SQLite" src ="https://img.shields.io/badge/sqlite-%2307405e.svg?&style=for-the-badge&logo=sqlite&logoColor=white"/>
-  <img alt="PHP" src ="https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=PostgreSQL&logoColor=white"/>
-  <img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
+📌 Join our **Discord Community** to discuss development: [Discord Invite](#)
 
-* CI (Continous integration) / CD (Continuous delivery)
+---
 
-  <img alt="GitHub Actions" src="https://img.shields.io/badge/github%20actions%20-%232671E5.svg?&style=for-the-badge&logo=github%20actions&logoColor=white"/>
+## 📜 License
+This project is **licensed** under the **MIT License**. See the [LICENSE](LICENSE) file for details.
 
-## 🌱 I’m currently learning
+---
 
-* Data Structure And Algorithm
+## 📢 Contact & Support
+- **Website:** [https://gtrp.com](#) 
+- **Discord:** [Join Here](#)
+- **GitHub Issues:** Use the **Issues tab** for bug reports & suggestions.
 
-## 👯 I’m open to collaborate on
+🔹 **Grand Town Roleplay – The Ultimate FiveM Experience!** 🏙️✨
 
-* Building **APIs for Apps**.
-* For doing projects related to **Building Apps**.
+---
 
-## Misc
-
-[![Spotify Flex](https://spotify-github-profile.vercel.app/api/view?uid=31q2htrwql6h6qiqtpj4nci4fx3m&cover_image=false")](https://open.spotify.com/user/1fyze9qeoon9yv1ehdg27e3u8)
-</br>
-
-## Go With The Flow
-
-<a href="https://github.com/Ghosty786">
-  <img align="middle" src = "https://raw.githubusercontent.com/jash-desai/jash-desai/main/bottom-footer.svg">
-</a>
+# EVERYTHING ON THIS README IS NOT 100% ACCURATE
