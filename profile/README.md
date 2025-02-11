@@ -1,5 +1,3 @@
-Here's a professional and comprehensive `README.md` for your **FiveM Roleplay GitHub Organization: Grand Town Roleplay (GTRP)**. It includes an introduction, installation steps, contribution guidelines, and links to resources.
-
 ---
 
 ### 🏙️ Grand Town Roleplay (GTRP) – FiveM RP Server
